@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CallRecordingApp</string>
+    <string name="device_description">CallRecordingApp</string>
+    <string name="device_admin_label">CallRecordingApp</string>
+</resources>
